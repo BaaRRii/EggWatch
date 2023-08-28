@@ -2,7 +2,7 @@
 
 EggWatch is a computer vision application that uses Python and OpenCV to detect eggs. It employs advanced image processing techniques to identify eggs in real-time images.
 
-![calibratorImage](https://github.com/BaaRRii/EggWatch/assets/79214220/93e52b9c-848c-4706-bd97-bad487430c2c)
+![result](https://github.com/BaaRRii/EggWatch/assets/79214220/e9266a66-a72c-4e0a-a3a7-0bf6b147fb88)
 
 ## Installation
 
@@ -26,7 +26,7 @@ This will run the program with the default configuration, if you want to change 
 python calibrator.py
 ```
 
-![result](https://github.com/BaaRRii/EggWatch/assets/79214220/e9266a66-a72c-4e0a-a3a7-0bf6b147fb88)
+![calibratorImage](https://github.com/BaaRRii/EggWatch/assets/79214220/93e52b9c-848c-4706-bd97-bad487430c2c)
 
 You will be prompted to enter the IP of the camera
 
